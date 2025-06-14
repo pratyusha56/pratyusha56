@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Pratyusha
+# 👋 Hi there! I'm Uma Pratyusha Putcha
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uma-pratyusha-putcha-1b44231b6" target="_blank">
