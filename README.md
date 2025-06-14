@@ -57,10 +57,12 @@ Databases:         MySQL | PostgreSQL | Oracle | SQL Server | MongoDB
 Visualization:     Tableau | Power BI | QlikView | Spotfire | Tibco Spotfire  
 Cloud & DevOps:    AWS | Django | GCP | Git | GitHub | Jenkins | EC2 | S3  
 Tools & Platforms: Angular | Salesforce | ONNX | Hugging Face
-
+```
 ---
-## Research Work
+## 🧪 Research Work
 
-[Smart Intelligent Web based Online Blood Donation System – IEEE Publication](https://ieeexplore.ieee.org/document/9591811)**  
-Django-based CMS platform for matching donors and recipients. Published in IEEE.
+🔬 **[Smart Intelligent Web-based Online Blood Donation System – IEEE Publication](https://ieeexplore.ieee.org/document/9591811)**  
+Designed and implemented a Django-based CMS platform for matching donors and recipients.  
+Published in IEEE for its contribution to healthcare automation.
+
 
