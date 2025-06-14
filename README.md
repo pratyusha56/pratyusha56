@@ -27,7 +27,7 @@ Results-driven **Data Analyst** and **Software Engineer** with hands-on experien
 End-to-end ML pipeline using real retail data for prediction
 
 🔹 [Machine Learning Projects](https://github.com/pratyusha56/Machine-Learning-)  
-Common ML models and performance evaluations
+Common ML models and performance evaluations(Academic Projects)
 
 🔹 AI-Powered Options Trading Engine
 Real-time sweep data + ML-based signal classification + IBKR-based trade execution.
