@@ -21,6 +21,30 @@ Results-driven **Data Analyst** and **Software Engineer** with hands-on experien
 
 ---
 
+## 🎓 Experience
+
+🔸 **Data Analytics Intern – Verity Quant AI**  
+📅 March 2025 – Present  
+🚀 Built a scalable real-time data ingestion and automation pipeline, reducing manual monitoring by 70%.  
+🧠 Applied sentiment analysis to improve ML model accuracy by 15% and ensured 98% uptime in production deployment.
+
+🔸 **Physics Tutor – University of North Texas**  
+📅 Jan 2024 – May 2025  
+🎓 Led 1-on-1 and group sessions for undergrad students, improving their grades by 20%.  
+📘 Simplified complex physics concepts with real-world analogies for higher engagement.
+
+🔸 **Data Analyst – Cognizant Technology Solutions (Amgen Project)**  
+📅 Aug 2022 – July 2023  
+📊 Designed Spotfire, Tableau, and Power BI dashboards for Amgen’s leadership.  
+⚙️ Automated ETL pipelines using Python + SQL and reduced manual reporting by 60%.  
+🧩 Administered Spotfire access and optimized dashboard performance.
+
+🔸 **Data Warehousing Intern – Cognizant**  
+📅 Feb 18, 2022 – Aug 25, 2022  
+🏫 Listed under [VR Siddhartha College Internships](https://www.vrsiddhartha.ac.in/it/internships-2020-21-b-tech/)  
+🚗 Built and maintained a Car Rental Management System, contributing to ETL logic and warehouse schema design.
+
+---
 ## 🚀 Projects
 
 🔹 [Retail Sales Analysis](https://github.com/pratyusha56/Retail-Sales-Analysis)  
