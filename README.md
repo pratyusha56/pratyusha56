@@ -1,5 +1,12 @@
 # 👋 Hi there! I'm Pratyusha
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/uma-pratyusha-putcha-1b44231b6" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-VIEW-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+
 🎓 Master's in Data Analytics and Statistics | 💡 Machine Learning Enthusiast | 📊 Aspiring Data Analyst  
 🔍 I love solving real-world problems using data and AI
 
