@@ -90,6 +90,16 @@ Cloud & DevOps:    AWS | Django | GCP | Git | GitHub | Jenkins | EC2 | S3
 Tools & Platforms: Angular | Salesforce | ONNX | Hugging Face
 ```
 ---
+
+## 🔌 APIs & Integrations
+
+- **Alpha Vantage** – For stock market forecasting and financial time series analysis  
+- **Unusual Whales** – Options flow and sweep data integration for options trading models  
+- **Onfido** – Identity verification and KYC integration for secure onboarding systems  
+- **IBKR TWS (Trader Workstation API)** – Real-time market data, options chain, and trade execution automation  
+- **Yahoo Finance** – Historical OHLCV data for equity analysis and backtesting
+
+---
 ## 🧪 Research Work
 
 🔬 **[Smart Intelligent Web-based Online Blood Donation System – IEEE Publication](https://ieeexplore.ieee.org/document/9591811)**  
