@@ -97,9 +97,4 @@ Designed and implemented a Django-based CMS platform for matching donors and rec
 Published in IEEE for its contribution to healthcare automation.
 
 ---
-<p align="center">
-  <a href="https://www.linkedin.com/in/uma-pratyusha-putcha-1b44231b6" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-VIEW-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-</p>
 
