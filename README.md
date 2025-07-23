@@ -90,7 +90,19 @@ Cloud & DevOps:    AWS | Django | GCP | Git | GitHub | Jenkins | EC2 | S3
 Tools & Platforms: Angular | Salesforce | ONNX | Hugging Face
 ```
 ---
+## 📜 Certifications
 
+- **Coursera** – Power BI, Data Analytics, Business Analytics, Prompt Engineering, Gen AI
+
+- **AWS Academy** – AWS Academy Graduate Certificate
+
+- **NPTEL** – Programming with C, Software Testing (Elite Certificate)
+
+- **Cisco Networking Academy** – C Essentials, C++, Python Essentials
+
+- **IBM + Qubit by Qubit** – Quantum Computing (2 Semesters)
+  
+---
 ## 🔌 APIs & Integrations
 
 - **Alpha Vantage** – For stock market forecasting and financial time series analysis  
