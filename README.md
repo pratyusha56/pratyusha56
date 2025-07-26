@@ -106,8 +106,6 @@ Research Interests:AI Agent Benchmarking  | RAG Pipelines | Vector DBs
 
 - **IBM + Qubit by Qubit** – Quantum Computing (2 Semesters)
 
-  🔗 Certificates
-  
 ---
 ## 🔌 APIs & Integrations
 
