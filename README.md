@@ -82,12 +82,16 @@ Configured Sales, Marketing, and Service Clouds to streamline lead conversion.
 ## ⚙️ Tech Stack
 
 ```bash
-Languages:         Python | C | C++ | Java | JavaScript | Golang | R | MATLAB  
-Data & ML:         Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn | ML | NLP  
-Databases:         MySQL | PostgreSQL | Oracle | SQL Server | MongoDB  
-Visualization:     Tableau | Power BI | QlikView | Spotfire | Tibco Spotfire  
-Cloud & DevOps:    AWS | Django | GCP | Git | GitHub | Jenkins | EC2 | S3  
-Tools & Platforms: Angular | Salesforce | ONNX | Hugging Face
+Languages:         Python | SQL | C | C++ | R | Java | Golang | JavaScript | MATLAB 
+Data & ML:         Pandas | NumPy | Scikit-learn | XGBoost | NLP | ML  | Seaborn | Matplotlib 
+Cloud & DevOps:    AWS | GCP | Airflow | Jenkins | GitHub | Docker | EC2 | S3  
+Databases:         PostgreSQL | SQL Server | Oracle | MySQL | MongoDB  
+Visualization:     Power BI | Tableau | Spotfire | Seaborn | Matplotlib  | QlikView
+Web & API:         Django | REST | Unusual Whales | Yahoo Finance | IBKR TWS
+Platforms:         Salesforce | Angular | HuggingFace | ONNX
+AI & ML:           LLM | Whisper | Rasa | gTTS | spaCy | SpeechRecognition | NLP | Computer Vision | Open AI
+Research Interests:AI Agent Benchmarking  | RAG Pipelines | Vector DBs
+
 ```
 ---
 ## 📜 Certifications
