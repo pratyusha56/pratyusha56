@@ -82,15 +82,28 @@ Configured Sales, Marketing, and Service Clouds to streamline lead conversion.
 ## ⚙️ Tech Stack
 
 ```bash
-Languages:         Python | SQL | C | C++ | R | Java | Golang | JavaScript | MATLAB 
-Data & ML:         Pandas | NumPy | Scikit-learn | XGBoost | NLP | ML  | Seaborn | Matplotlib 
-Cloud & DevOps:    AWS | GCP | Airflow | Jenkins | GitHub | Docker | EC2 | S3  
-Databases:         PostgreSQL | SQL Server | Oracle | MySQL | MongoDB  
-Visualization:     Power BI | Tableau | Spotfire | Seaborn | Matplotlib  | QlikView
-Web & API:         Django | REST | Unusual Whales | Yahoo Finance | IBKR TWS
-Platforms:         Salesforce | Angular | HuggingFace | ONNX
-AI & ML:           LLM | Whisper | Rasa | gTTS | spaCy | SpeechRecognition | NLP | Computer Vision | Open AI
-Research Interests:AI Agent Benchmarking  | RAG Pipelines | Vector DBs
+## ⚙️ Tech Stack  
+
+Languages:         Python | R | SQL | C | C++ | Java | Golang | JavaScript | MATLAB  
+Data & ML:         Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | Keras | XGBoost  
+                   Time Series | Regression | Classification | Clustering | Ensemble Learning  
+                   NLP | NER | Sentiment Analysis | Topic Modeling | Machine Translation  
+                   Generative AI | LLMs (GPT, BERT, Falcon, LLaMA) | Diffusion Models | RAG Pipelines  
+                   Prompt Engineering | Fine-Tuning | Embeddings | Model Explainability (SHAP, LIME)  
+                   Reinforcement Learning | Geospatial Analysis | Responsible AI  
+Cloud & DevOps:    AWS (EC2, S3, Glue, Lambda, Redshift, SageMaker)  
+                   Azure (Databricks, Synapse, Fabric, SQL Server, Power BI)  
+                   GCP (BigQuery, Vertex AI)  
+                   Docker | Kubernetes | Airflow | Jenkins | GitHub Actions | Terraform | MLflow  
+Databases:         PostgreSQL | SQL Server | Oracle | MySQL | MongoDB | DynamoDB | Data Warehousing  
+Visualization:     Power BI (DAX, Power Query) | Tableau | Spotfire | QlikView | Data Storytelling | Seaborn | Matplotlib  
+Web & API:         Django | REST APIs | FastAPI | LangChain | HuggingFace | ONNX  
+                   Unusual Whales | Yahoo Finance | IBKR TWS  
+Platforms:         Salesforce | Angular | Microsoft Dynamics 365 | Microsoft Fabric | Power Automate  
+AI & ML:           Whisper | Rasa | spaCy | gTTS | SpeechRecognition | OpenAI APIs  
+                   Computer Vision (OpenCV, CNNs, GANs, Transformers, Diffusion Models)  
+Robotics & Sim:    Embodied AI | ROS | AI Habitat | Motion Planning | Sim-to-Real Transfer | Dexterous Manipulation  
+Research Focus:    AI Agent Benchmarking | Simulation & Robotics | Bias/Fairness in AI | Scalable Data Pipelines  
 
 ```
 ---
