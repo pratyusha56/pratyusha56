@@ -53,7 +53,7 @@ End-to-end ML pipeline using real retail data for prediction
 🔹 [Machine Learning Projects](https://github.com/pratyusha56/Machine-Learning-)  
 Common ML models and performance evaluations(Academic Projects)
 
-🔹 [AI Call Bot] (https://github.com/pratyusha56/ai-call-bot/tree/main)  
+🔹 [AI Call Bot](https://github.com/pratyusha56/ai-call-bot/tree/main)  
 AI-powered telephony bot with **Asterisk PBX**, **speech-to-text**, **LLMs**, and **text-to-speech** that can automatically **book appointments in Google Calendar** and simulate a virtual receptionist.  
 
 🔹 AI-Powered Options Trading Engine
