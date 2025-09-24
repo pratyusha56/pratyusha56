@@ -139,4 +139,10 @@ Designed and implemented a Django-based CMS platform for matching donors and rec
 Published in IEEE for its contribution to healthcare automation.
 
 ---
+## 🏆 Honors & Awards
 
+-**Grant Awardee** – Physics Tutor & Student Assistant at UNT, recognized for excellence in teaching & academic support
+-Undergraduate Merit Scholarship Recipient
+-Completed IBM/MIT Quantum Computing Course (Fully Funded, 2020)
+
+---
