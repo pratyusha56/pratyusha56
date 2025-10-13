@@ -105,7 +105,6 @@ Web & API:         Django | REST APIs | FastAPI | LangChain | HuggingFace | ONNX
 Platforms:         Salesforce | Angular | Microsoft Dynamics 365 | Microsoft Fabric | Power Automate  
 AI & ML:           Whisper | Rasa | spaCy | gTTS | SpeechRecognition | OpenAI APIs  
                    Computer Vision (OpenCV, CNNs, GANs, Transformers, Diffusion Models)  
-Robotics & Sim:    Embodied AI | ROS | AI Habitat | Motion Planning | Sim-to-Real Transfer | Dexterous Manipulation  
 Research Focus:    AI Agent Benchmarking | Simulation & Robotics | Bias/Fairness in AI | Scalable Data Pipelines  
 
 ```
